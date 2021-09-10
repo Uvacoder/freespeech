@@ -1,5 +1,5 @@
 # Freespeech
-
+----
 A free program designed to help people who are non-verbal.
 
 ## Why Was This Created?
